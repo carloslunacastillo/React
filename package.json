@@ -25,6 +25,7 @@
     "webpack-cli": "^3.2.1"
   },
   "dependencies": {
+    "balanced-match": "^1.0.0",
     "moment": "^2.24.0"
   }
 }
